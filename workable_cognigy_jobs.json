@@ -1,0 +1,702 @@
+[
+  {
+    "id": "201d8e",
+    "title": "Business Development Representative - UK",
+    "department": "Sales",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/33587C5EED",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Location</strong>: Berlin or Düsseldorf, Germany<br></p><p><strong>Cognigy</strong> </p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount growth of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $44M.  </p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our team.</p><p><strong>Team</strong><br></p><p>The BDR team belongs to the Revenue team, which includes Marketing, Sales and Customer Success, is a high energy group that loves evangelizing and delivering industry-leading business solutions to both new and existing customers. The primary objectives of the global BDR team is to generate a pipeline for new, quality sales opportunities, land new customers and expand business within our existing customers.</p><p>You get the opportunity to experience a steep learning curve, because we coach and support you in matters of enterprise software sales.</p><p><strong>Your tasks</strong></p><ul> <li>As a BDR you will work closely with our sales manager / sales team and support the strategic development of a portfolio with target customers</li> <li>Outbound prospecting via phone, email and social as well as qualifying inbound &amp; outbound leads</li> <li>You maintain data in our CRM (Hubspot) so that we have conclusive data from our prospects</li> <li>You conduct initial discussions and give product demos to potential customers</li> <li>You represent Cognigy at trade fairs and conferences</li> </ul>",
+    "requirements": "<ul> <li>Initial work experience as a Business Development Representative, Sales Development Representative or similar role</li> <li>Hands-on experience with multiple sales techniques (including cold calls)</li> <li>Ideally experience with CRM software (e.g. Hubspot)</li> <li>Motivated to work in Software Sales</li> <li>Excellent communication and negotiation skills</li> <li>Ability to deliver engaging presentations</li> <li><strong>Fluency in English</strong></li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome</li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers</li> <li>We also offer you an attractive and performance-oriented salary</li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization</li> <li>Flexible working hours and ability to work from the office in Düsseldorf or remote in Germany</li> </ul><p><br></p><p><br></p>"
+  },
+  {
+    "id": "204090",
+    "title": "Senior Manager Enablement Services",
+    "department": "Sales",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/57BF588E30",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p>Manages and enables a team of solution architects and tech consultants with the goal of providing expert consulting, best-practices and strategic advice to customers, partners, and other stakeholders. This includes monitoring and supervising the team, providing guidance, instructions, training, and leadership skills to inspire the team to perform at their optimum. Further activities include the regular alignment with Customer Success Management, Global Support, Sales Engineering and Product (Marketing) teams and might include occasional customer-facing meetings and interactions. The Consulting Director is a thought-leader when it comes to large scale rollouts of conversational AI projects and might occasionally participate in webinars or other related events. </p><p><br></p>",
+    "requirements": "<p>- managing a team</p>",
+    "benefits": ""
+  },
+  {
+    "id": "206d1e",
+    "title": "Sr. Backend (Node.js) Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/884F2C8017",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Job location</strong>: Germany, Remote or in our Düsseldorf HQ</p><p><strong>Cognigy</strong><br></p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $44M.  </p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our engineering team.</p><p><strong>Your challenge:<br></strong></p><ul> <li>Producing a clean, readable and well-tested code</li> <li>Improvement and testing of already existing code and documentation</li> <li>Helping us to increase unit-testing coverage for existing code</li> <li>Profiling and benchmarking our existing codebase to identify bottlenecks</li> <li>Measuring the performance of database-queries and helping us to reduce network overhead in our microservices-based product-architecture</li> </ul>",
+    "requirements": "<ul> <li>Several years of experience in backend development (ideally in Node.JS/ Typescript)</li> <li>Several years of experience with MongoDB or a similar NoSQL database including expertise in profiling database queries</li> <li>Experience with containers and debugging containerized applications</li> <li>Experience in building a large-scale software product</li> <li>Experience with writing well-tested and high-quality code - we are practicing TDD using testing frameworks and libraries like Mocha, Chai &amp; sinon</li> <li>Experience in identifying bottlenecks in a large codebase by using a profiler and a debugger</li> <li>Familiar with code-analysis tools and the procedure of static code analysis</li> <li>Experience in using and working in a Linux-based environment daily – you should be comfortable with working in the terminal</li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome</li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers</li> <li>We also offer you an attractive and performance-oriented salary</li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization</li> <li>Flexible working hours and ability to work from home/ remote in Germany</li> </ul><p><br></p><p>#LI-Remote </p>"
+  },
+  {
+    "id": "206d24",
+    "title": "Sr. Enterprise Account Executive - DACH",
+    "department": "Sales",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/670BAC682C",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Cognigy</strong></p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $44M.</p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our sales team.</p><p><strong><br>Your job:</strong><br></p><p>To reinvent an industry, we are building out the best team. <strong>That’s why we are looking for you</strong> as a <strong>Sr. Entreprise Account Executive </strong>at Cognigy. As an Account Executive you will work closely with our prospective customers to understand their challenges and goals and identify how Cognigy can help them.<br></p><p><br></p><p><strong>Responsibilities:  </strong></p><ul> <li>You are responsible for acquiring new entreprise companies from all industries in the DACH region and you position our leading Conversational.AI platform (SaaS + On-Premise).</li> <li>You are responsible for the full sales cycle, the processing of tendering processes and you take on the overall responsibility for complex contract negotiations with the decision-makers at management level (C-Level)</li> <li>You are responsible for the implementation of web demos and customer meetings on site as well as the independent and professional preparation of discussions with customer-specific product presentations</li> <li>You will be working closely with your Presales Consultants and your Business Development Representative</li> <li>You act as a Trusted Advisor to your prospective customers at any time during the sales cycle</li> <li>You represent Cognigy at trade fairs or events that are customary in the industry</li> <li>The continuous optimization of the cooperation with customers through up- and cross-selling is your responsibility</li> <li>You will help shape our product roadmap and the permanent refreshment of product knowledge</li> </ul>",
+    "requirements": "<ul> <li>You have at least 3-5 years of enterprise sales experience, preferably in the areas of software solutions, online marketing solutions or web content management</li> <li>You can present yourself confidently and empathetically at all management levels (including C-Level)</li> <li>You have strong entrepreneurial skills and have a high affinity for customer acquisition</li> <li>In addition to direct sales, you are also used to acquire new customers together with our partners and supporting them in the sales process. </li> <li>You shine through your professional communication and negotiation skills as well as your customer-oriented and personable demeanor</li> <li>You work in a very structured, organized manner and you know how to prioritize</li> <li>Fluent German and very good English skills complete your profile</li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome</li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers</li> <li>We also offer you an attractive and performance-oriented salary</li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization </li> <li>Flexible working hours and ability to work from home/ remote in Germany</li> </ul><p><br></p><p>#LI-Remote </p>"
+  },
+  {
+    "id": "206d34",
+    "title": "Sales Engineer - DACH",
+    "department": "Sales",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/17D08BE5F6",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Cognigy</strong></p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $44M.</p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our sales engineering team.</p><p>The ideal candidate for the Sales Engineering role is comfortable working with a <strong>broad range of technologies</strong> and can project confidence in Cognigy's ability to address <strong>customer requirements</strong>.</p><p>Key requirements are <strong>confidence in speaking and dealing with technology</strong> and an <strong>ability to pick up new technologies quickly.</strong></p><p>You don’t need to understand all technologies (i.e. Conversational AI, Node.js, React, Javascript) and applications in-depth, but you should be excited about encountering a new API and figuring out how to weave it into a customized demo for enterprise customers.</p><p>You should understand what makes Cognigy valuable to its customers and incorporate that messaging into custom product demonstrations.</p><p>The ideal candidate will have experience in the enterprise software space working with contact center or automation technologies, either at software companies or building custom solutions.</p><p>You will spend a large part of your time <strong>building great Cognigy.AI demos</strong>. You are not afraid of dealing with Node.JS or <strong>React-based front ends to give your chatbot demos the necessary shine</strong>.</p><p>You will work closely with our sales team on <strong>discovery calls</strong>, <strong>technical deep-dives</strong> and <strong>product demonstrations</strong>.</p><p>In sum, the ideal candidate is a people person who loves technology, enjoys learning new things and gets energy from sharing their knowledge with prospective customers.</p>",
+    "requirements": "<ul> <li>Experience as a consultant, sales engineer or comparable role that involves technical advice and providing fun and engaging demos. </li> <li>Programming / scripting experience in JavaScript, Java, Python or similar. You don't necessarily need tons of development experience.</li> <li>Low code platform experience and conversational AI is a plus: Salesforce, Mendix, Outsystems, ServiceNow and/or others</li> <li>You are a confident and engaging presentor</li> <li>Creative &amp; design skills (maybe you have experience with video editing, Photoshop or similar). A sales engineering role is all about creating a great experience for our customers</li> <li>German &amp; English language skills</li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome</li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers</li> <li>We also offer you an attractive and performance-oriented salary</li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization</li> <li>Flexible working hours and ability to work from the office in Düsseldorf or remote in the UK/Germany</li> </ul><p><br></p><p>#LI-Remote </p>"
+  },
+  {
+    "id": "206d45",
+    "title": "Sales Engineer - UK",
+    "department": "Sales",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "shortlink": "https://apply.workable.com/j/2E79731EA8",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>About Cognigy</strong></p>  <p>Cognigy, a market leader in Conversational AI, powers up enterprise contact centers to exceed customer expectations, improve agent satisfaction and rapidly respond to market changes. The Cognigy.AI platform enables next-generation customer service, with a suite of solutions including Conversational IVR, Smart Self-Service, and Agent + Assist. Cognigy.AI gives the enterprise what it needs to deliver always-on, personalized service experiences at scale, on both voice and chat.</p>    Our skilled #CognigyCrew are the people behind our cutting-edge technology and we are now looking for more talented people to join our global team.<p><br></p><p><strong>Why you’ll love working at Cognigy: our promise to you</strong></p>  <p>We empower our people to be successful as part of a diverse, passionate and respectful team who are proud to be enabling customer and employee service that is loved by everyone.</p>    <p>We do this by challenging each other to succeed and being enabled to do our best work. Encouraging and supporting growth is at the heart of our success, founded on a culture of mutual respect and trust – always! It’s no wonder that the values that inspire and drive our #CognigyCrew are our 4Ts: </p>  <p><strong>Team</strong>, <strong>Trust</strong>, <strong>Transparency</strong>, <strong>Technology</strong>.</p><p><br></p><p><strong>Your new role</strong></p>  <p>As a member of our presales team, reporting into the Director of Consulting, you will work closely with our sales team on discovery calls, technical deep dives and product demonstrations. A sales engineering role is all about creating a great experience for our customers.</p>    <p>Your responsibilities will include: </p>  <ul> <li>Supporting the sales team with solution selling into enterprise customers</li> <li>Partnering with the sales team to plan, prepare and execute on strategic deals within the sales cycle</li> <li>Participating in discovery calls and technical deep dives </li> <li>Creating and delivering powerful presentations and customised product demonstrations</li> <li>Clearly communicating and presenting what makes Cognigy valuable to our customers</li> <li>Collaborating with relevant stakeholders to communicate customer requirements and further enhancement</li> </ul>",
+    "requirements": "<p><strong>About you</strong></p>  <p>You are a passionate, people person with a love for technology, enjoys learning new things and gets energy from sharing their knowledge with prospective customers.</p>    <p>You will have: </p>  <ul> <li>Experience as a consultant, sales engineer or comparable role that involves technical advice and providing fun and engaging demos.</li> <li>Programming / scripting experience in JavaScript, Java, Python or similar. You don’t need to understand all technologies and applications in-depth, but you should be excited about encountering a new API and figuring out how to weave it into a customized demo for enterprise customers.</li> <li>Experience in the enterprise software space working with contact center or automation technologies, either at software companies or building custom solutions.</li> <li>Low code platform experience and conversational AI is a plus.</li> <li>You are a confident and engaging presenter.</li> <li>Creative &amp; design skills (maybe you have experience with video editing, Photoshop or similar). </li> <li>Confidence in speaking and dealing with technology and an ability to pick up new technologies quickly.</li> </ul>                  <p>Sound like you? Come and join us!</p>",
+    "benefits": "<p><strong>Life at Cognigy: what   we offer you</strong></p>   <p>We are an ambitious and international tech company with a great culture, and we make sure that everyone   feels welcome. Our excellent benefits make us a fantastic place to work -   these include:</p><ul> <li>Attractive and performance-oriented salary</li> <li>Company pension plan </li> <li>Discretionary virtual stock options plan, so you can benefit from the company’s success</li> <li>Unique opportunity to help build and shape the company, with little hierarchy </li> <li>Flexible and remote working options</li> <li>Colleague recognition, reward and celebration events</li> <li>Global Employee Assistance Program</li> <li>ClassPass membership, giving you access to a variety of fitness and wellness experiences</li> <li>Ongoing learning and development opportunities, including LinkedIn Learning</li> </ul>"
+  },
+  {
+    "id": "206d49",
+    "title": "Sales Engineer - Benelux",
+    "department": "Sales",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "shortlink": "https://apply.workable.com/j/3FADBAE060",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Job location: </strong></p><p><em>Role can be based out of the Netherlands, but you will be contracted to our German entity (Cognigy GmbH)</em></p><p></p><p><strong>Cognigy</strong></p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $44M.</p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our sales engineering team.</p><p>The ideal candidate for the Sales Engineering role is comfortable working with a broad range of technologies and can project confidence in Cognigy's ability to address customer requirements.<br></p><p>Key requirements are <strong>confidence in speaking</strong> and <strong>dealing with technology</strong> and an <strong>ability to pick up new technologies quickly</strong>.</p><p>You don’t need to understand all technologies (i.e. Conversational AI, Node.js, React, Javascript) and applications in-depth, but you should be excited about encountering a new API and figuring out how to weave it into a customized demo for enterprise customers. You should understand what makes Cognigy valuable to its customers and incorporate that messaging into custom product demonstrations.</p><p>The ideal candidate will have experience in the enterprise software space working with contact center or automation technologies, either at software companies or building custom solutions.</p><p>You will spend a large part of your time <strong>building great Cognigy.AI demos</strong>. You are not afraid of dealing with Node.JS or <strong>React-based front ends</strong> to give your chatbot demos the necessary shine.</p><p>You will work closely with our sales team on <strong>discovery calls</strong>, <strong>technical deep-dives</strong> and <strong>product demonstrations</strong>.</p><p>In sum, the ideal candidate is a people person who loves technology, enjoys learning new things and gets energy from sharing their knowledge with prospective customers.</p>",
+    "requirements": "<ul> <li>Experience as a consultant, sales engineer or comparable role that involves technical advice and providing fun and engaging demos.</li> <li>Programming / scripting experience in JavaScript, Java, Python or similar. You don't necessarily need tons of development experience.</li> <li>Low code platform experience and conversational AI is a plus: Salesforce, Mendix, Outsystems, ServiceNow and/or others</li> <li>You are a confident and engaging presentor</li> <li>Creative &amp; design skills (maybe you have experience with video editing, Photoshop or similar). A sales engineering role is all about creating a great experience for our customers</li> <li>English &amp; <strong>Dutch </strong>language skills</li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome</li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers</li> <li>We also offer you an attractive and performance-oriented salary</li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization</li> <li>Flexible working hours and ability to work from the office in Düsseldorf or remote in the Netherlands</li> </ul>"
+  },
+  {
+    "id": "206d54",
+    "title": "Sales Engineer - UAE",
+    "department": "Sales",
+    "locations": [
+      "Dubai, United Arab Emirates"
+    ],
+    "shortlink": "https://apply.workable.com/j/D7056A3A0F",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Cognigy</strong></p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $59M.</p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our sales engineering team.</p><p><strong>The role</strong></p><p>The ideal candidate for the Sales Engineering role is comfortable working with a <strong>broad range of technologies</strong> and can project confidence in Cognigy's ability to address <strong>customer requirements</strong>.<br></p><p>Key requirements are <strong>confidence in speaking</strong> and <strong>dealing with technology</strong> and an <strong>ability to pick up new technologies quickly</strong>.</p><p>You don’t need to understand all technologies (i.e. Conversational AI, Node.js, React, Javascript) and applications in-depth, but you should be excited about encountering a new API and figuring out how to weave it into a customized demo for enterprise customers.</p><p>You should understand what makes Cognigy valuable to its customers and incorporate that messaging into custom product demonstrations.</p><p>The ideal candidate will have experience in the enterprise software space working with contact center or automation technologies, either at software companies or building custom solutions.</p><p>You will spend a large part of your time <strong>building great Cognigy.AI demos</strong>. You are not afraid of dealing with Node.JS or <strong>React-based front ends</strong> to give your chatbot demos the necessary shine.</p><p>You will work closely with our sales team on discovery calls, <strong>technical deep-dives</strong> and product demonstrations.</p><p>In sum, the ideal candidate is a people person who loves technology, enjoys learning new things and gets energy from sharing their knowledge with prospective customers.</p>",
+    "requirements": "<ul> <li>Experience as a consultant, sales engineer or comparable role that involves technical advice and providing fun and engaging demos.</li> <li>Programming / scripting experience in JavaScript, Java, Python or similar. You don't necessarily need tons of development experience.</li> <li>Low code platform experience and conversational AI is a plus: Salesforce, Mendix, Outsystems, ServiceNow and/or others</li> <li>You are a confident and engaging presentor</li> <li>Creative &amp; design skills (maybe you have experience with video editing, Photoshop or similar). A sales engineering role is all about creating a great experience for our customers</li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome</li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers</li> <li>We also offer you an attractive and performance-oriented salary</li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization</li> <li>Flexible working hours and ability to work from home/ remote in Dubai</li> </ul>"
+  },
+  {
+    "id": "206d66",
+    "title": "Solution Engineer",
+    "department": "Sales",
+    "locations": [
+      "Boston, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/9D9211662B",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>Cognigy</strong> </p><p>Cognigy provides a low-code conversational AI platform that can be deployed across a diverse range of applications and geographies — with support for over 120 languages, Cognigy’s key proposition is centred around flexibility: Cognigy.AI is an automation platform that enables enterprises to easily create and operate AI-powered virtual agents to automatically handle calls and chats from customers and employees</p><p>Founded in Dusseldorf, Germany, Cognigy retains a strong global presence with offices in Australia, USA and the United Kingdom. Having scaled our global client base to many enterprise grade customers, including Lufthansa, Mobily, BioNTech, Vueling Airlines, Bosch and Daimler, the business is targeting an overall headcount of 250+ over the next 18 months as we are continuing to expand. Cognigy has been able to close significant funding rounds, most recently a Series B round of $44M.  </p><p>Our international, smart, and diverse team needs more passionate minds to continue and help us on this journey. We are now looking to expand our consulting team.</p><p><strong>The role:</strong><br></p><p>Looking for a new challenge on the cutting-edge of technology? Interested in chatbots, voice devices and automation? Come join us!</p><p>We are looking for a Solution Engineer/Architect to join our Consulting team of product experts who work with our clients and partners to build innovative Conversational AI implementations.</p><p>You will be the <strong>go-to person for technical questions</strong> about our conversational AI platform and <strong>will be involved with the project from start to finish</strong>. This means that <strong>you are involved with the requirements gathering</strong> as well as <strong>actual development</strong> and y<strong>ou have a talent for translating customer demands to concrete technical solutions</strong>.</p><p>You will be working with Cognigy.AI integration partners like Deloitte, Accenture or Codecentric in larger implementation projects.<br></p>",
+    "requirements": "<ul> <li>You have at least a first professional experience in a similar working environment</li> <li>You are a team player and love to talk to customers and partners</li> <li>You are hands-on with technologies like Node.JS</li> <li>You are able to find solutions to the most complex technical requirements and love implementing them</li> <li>You are self-motivated, pro-active and capable of structuring your work in order to deliver</li> </ul>",
+    "benefits": "<ul> <li>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome  </li> <li>The opportunity to help build this company with flat hierarchies and the possibility to shape the organization </li> <li>We believe that our employees should benefit from the company’s success and therefore offer an attractive virtual stock options plan to top performers </li> <li>We also offer you an attractive and performance-oriented salary </li> <li>Great benefits, including health/dental/vision and 401k </li> <li>Flexible working hours and ability to work from home in the US</li> </ul><p>#LI-Remote </p>"
+  },
+  {
+    "id": "207150",
+    "title": "Backend Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Málaga, Spain"
+    ],
+    "shortlink": "https://apply.workable.com/j/22518899E0",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207151",
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/5B78BD6D81",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p>Test</p>",
+    "requirements": "<p>Test</p>",
+    "benefits": "<p>Test</p>"
+  },
+  {
+    "id": "207155",
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Málaga, Spain"
+    ],
+    "shortlink": "https://apply.workable.com/j/B134AAB025",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207168",
+    "title": "DevOps Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/343F5C1EBB",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "<p><strong>About you</strong></p><p>Cognigy is revolutionizing the customer service industry by harnessing the most cutting-edge AI technology on the market. Its award-winning solution Cognigy.AI, empowers businesses to deliver exceptional customer service that is instant, personalized, in any language and on any channel. Cognigy is shaping the future of customer service, creating AI Agents by perfectly combining Generative and Conversational AI to increase customer satisfaction and actively support employees in real-time.  </p><p>Our skilled #CognigyCrew are the people behind our cutting-edge technology and we are now looking for more talented people to join our global team.</p><p></p><p><strong>Why you’ll love working at Cognigy: our promise to you</strong></p><p>We empower our people to be successful as part of a diverse, passionate and respectful team who are proud to be leading the automation of conversations to make life easier for everyone.</p><p>We do this by challenging each other to succeed and being enabled to do our best work. Encouraging and supporting growth is at the heart of our success, founded on a culture of mutual respect and trust – always! It’s no wonder that the values that inspire and drive our #CognigyCrew are our 4Ts:</p><p><strong>Team, Trust, Transparency, Technology.</strong></p><p></p><p><strong>Your new role</strong></p><p>You will be welcomed into our engineering department, which is divided into cross-functional, verticalized development teams, who are focused on delivering continuous improvements, features and developing new products. To support the delivery process and stability of our products, we can also count on our Product Support team, QA team, and SRE team who, alongside our Product and People team, Director/Architect and VP Engineering, are constantly looking to overcome new challenges, to innovate, and to ensure the success of our products and satisfaction of our customers.</p><p></p><p><strong>Your mission</strong></p><ul> <li>Automating provisioning processes of Kubernetes clusters as well as our microservices based software application Cognigy.AI</li> <li>Monitoring product installations and our infrastructure to guarantee the stability of our SaaS product offerings</li> <li>Helping our engineering teams to automate reoccurring procedures to increase efficiency and reduce costs</li> <li>Providing guidance to other DevOps engineers</li> <li>Holistic approach: As part of an agile development team, you will be involved in all phases of software engineering - from inception to coding, testing, delivery, and operation. You enable a high degree of automation on every level</li> <li>Performance mindset: Your mission will be to increase productivity of development teams by focusing on the cross-functional aspects like observability, scalability, availability, maintainability, reliability, etc, while always keeping the customer in mind. In doing so, you will also be leading postmortems after major incidents.</li> <li>Continuous learning: You are willing to continuously develop yourself, eager to share your knowledge and take over responsibility, and have fun doing so</li> <li>Customer feedback: As part of the team you constantly seek out feedback from users while developing new features and always keep the code base deployable to production</li> </ul>",
+    "requirements": "<p><strong>About you</strong></p><ul> <li>Several years of experience in Kubernetes and running containers in production, including building Kubernetes clusters from the ground up</li> <li>Being available in case of emergencies is not a problem for you</li> <li>Experience in running distributed systems like databases</li> <li>Good networking knowledge: Like VPC, Subnets, Internet Gateways</li> <li>Multiple years of experience with CI/CD systems like Jenkins – you love to automate whenever you can</li> <li>Experience with automation tools: Terraform, Helm and Flux</li> <li>Excellent communication skills in English</li> <li>Proficiency in German at a minimum C1 level – we have many German customers who need help with DevOps related questions</li> </ul><p></p><p><strong>Desirable skills and experiences</strong></p><ul> <li>Knowledge in auto-scaling infrastructure by leveraging tools like the Horizontal Pod Autoscaler or the Cluster Autoscaler</li> <li>You have used products like AWS EKS, Azure AKS or Google GKE – the managed Kubernetes services from leading cloud providers</li> <li>You can use “the force” to proactively scale our infrastructure</li> <li>You have expertise in coding with one or more of the following languages: Golang, Python, Ruby, JavaScript, Java or Perl.</li> <li>You have also experience with cloud platforms (e.g. Google Cloud Platform, Amazon Web Services, Microsoft Azure).</li> <li>You are familar with topics like Docker, Kubernetes, Elasticsearch, Cassandra, Postgres, Kafka, Jenkings, Gitlab</li> <li>Basic knowledge of monitoring and experience with Datadog, Prometheus, Grafana, ELK-Stack or similar tools</li> <li>Expertise around web security and networking</li> <li>Your mindset: You have a systematic problem-solving approach, coupled with a strong sense of ownership and drive.</li> <li>You have experience in dealing with difficult situations and you can make, when necessary, decisions with a sense of urgency</li> <li>Last but not least: You want to work in an international, dynamic and highly motivated team and want to contribute the development of Cognigy.AI</li> </ul>",
+    "benefits": "<p><strong>Life at Cognigy: what we offer you</strong></p><p>We are an ambitious and international tech company with a great culture, and we make sure that everyone feels welcome. Our excellent benefits make us a fantastic place to work - these include:</p><ul> <li>Attractive and performance-oriented salary</li> <li>Company Pension Scheme</li> <li>25 days paid leave, plus 5 floating days, plus public holidays</li> <li>Unique opportunity to help build and shape the company, with little hierarchy </li> <li>Flexible working options</li> <li>Colleague recognition, reward and celebration events</li> <li>Global Employee Assistance Program</li> <li>ClassPass membership, giving you access to a variety of fitness and wellness experiences</li> <li>Ongoing learning and development opportunities, including LinkedIn Learning</li> <li>One paid ‘Giving Back Day' each year, so you can volunteer for a charity or community activity of your choice</li> <li>Subscription to the Calm app for you plus five friends/family members, giving you access to guided meditation, sleep stories, music, masterclasses, and much more</li> </ul><p></p><p></p><p></p><p><em>Equal Opportunity Employer Statement: Cognigy does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.</em><a rel=\"nofollow noreferrer noopener\" class=\"external\"></a></p>"
+  },
+  {
+    "id": "20716e",
+    "title": "Domain Expert Voice",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/519971C8F0",
+    "positionType": "Full-time",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207171",
+    "title": "Engineering Manager",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/CDF73539FA",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207174",
+    "title": "Sr. Product Owner",
+    "department": "Engineering",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/4F398611A0",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207175",
+    "title": "QA Engineer",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/26DC7D09C4",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207178",
+    "title": "Security and Data Privacy Architect",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/D32E662C3E",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207179",
+    "title": "Technical Writer",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/60197AAE67",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "20717b",
+    "title": "Working Student",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/CBF88B519B",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "20717d",
+    "title": "Tech Product Support",
+    "department": "Engineering",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/489D4B0004",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207181",
+    "title": "Customer Success Manager",
+    "department": "Sales",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/A0280A63EC",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207192",
+    "title": "Business Development Representative - UAE",
+    "department": "Sales",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/0DB620B2B6",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207196",
+    "title": "BDR Manager",
+    "department": "Sales",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/678A69E809",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2071d6",
+    "title": "Technical Alliance Director",
+    "department": "Sales",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/E5B5650A34",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2071d9",
+    "title": "OEM Alliances Director",
+    "department": "Sales",
+    "locations": [
+      "Boston, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/A1B5DDEF84",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2071e4",
+    "title": "Sr. Account Executive - UAE",
+    "department": "Sales",
+    "locations": [
+      "Dubai, United Arab Emirates"
+    ],
+    "shortlink": "https://apply.workable.com/j/B4055AFDE8",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2071e8",
+    "title": "Partner Manager - UAE",
+    "department": "Sales",
+    "locations": [
+      "Dubai, United Arab Emirates"
+    ],
+    "shortlink": "https://apply.workable.com/j/1C71AECFD4",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2071eb",
+    "title": "Partner Operations Manager",
+    "department": "Sales",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/2F02D900D6",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2071f0",
+    "title": "Revenue Operations Manager",
+    "department": "Sales",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/1D05DF0BCE",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "207219",
+    "title": "Partner Director - APAC",
+    "department": "Sales",
+    "locations": [
+      "null, Australia"
+    ],
+    "shortlink": "https://apply.workable.com/j/F7F7FDC47E",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2072d0",
+    "title": "Sales Recruiter",
+    "department": "Finance",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "shortlink": "https://apply.workable.com/j/7E097795DB",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "20be71",
+    "title": "Sr. Enterprise Account Executive - BNL",
+    "department": "Sales",
+    "locations": [
+      "null, Netherlands"
+    ],
+    "shortlink": "https://apply.workable.com/j/F60127D1E1",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "20be76",
+    "title": "Sr. Frontend (React.js) Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/E588EE7142",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "20be89",
+    "title": "Business Development Representative - Benelux",
+    "department": "Sales",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/4DB53F7AC6",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "20cba4",
+    "title": "Business Development Representative - Americas",
+    "department": "Sales",
+    "locations": [
+      "Boston, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/101450938B",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2132ae",
+    "title": "Enterprise Account Executive - DACH",
+    "department": "Sales",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/FFB29EA064",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "213f50",
+    "title": "Business Development Representative - DACH",
+    "department": "Sales",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/07E8F517A5",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "213f53",
+    "title": "Solution Architect - US",
+    "department": "Sales",
+    "locations": [
+      "New York, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/F2FDBE54E2",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "21406a",
+    "title": "Product Marketing Manager",
+    "department": "Marketing",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/551148D5F1",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "214130",
+    "title": "Sr. Frontend (React.js) Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Málaga, Spain"
+    ],
+    "shortlink": "https://apply.workable.com/j/305F430B59",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "214137",
+    "title": "Sr. Backend (Node.js) Engineer - Spain",
+    "department": "Engineering",
+    "locations": [
+      "Málaga, Spain"
+    ],
+    "shortlink": "https://apply.workable.com/j/FD08243222",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2149aa",
+    "title": "Sr. Enterprise Account Executive - AMER",
+    "department": "Sales",
+    "locations": [
+      "null, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/7786B06423",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "2149bd",
+    "title": "Accounting Manager",
+    "department": "Finance",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/D2C2B78479",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "214a0f",
+    "title": "Sr. Account Executive - APAC",
+    "department": "Sales",
+    "locations": [
+      "Sydney, Australia"
+    ],
+    "shortlink": "https://apply.workable.com/j/074574F57E",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "215ca9",
+    "title": "System Administrator",
+    "department": "Engineering",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/C676E9D4D6",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "215f6a",
+    "title": "Engineering Manager",
+    "department": "Engineering",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/8E15EDA08A",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "218ae8",
+    "title": "Chief Financial Officer",
+    "department": "Finance",
+    "locations": [
+      "null, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/1B1EDD45B7",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "218b55",
+    "title": "HR Administration & Operations",
+    "department": "Finance",
+    "locations": [
+      "Düsseldorf, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/9BC0A777CA",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  },
+  {
+    "id": "219700",
+    "title": "Sr. Marketing Manager - North America",
+    "department": "Marketing",
+    "locations": [
+      "null, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/2E3CBEC1C5",
+    "positionType": "Not specified",
+    "workplaceType": "Not specified",
+    "description": "",
+    "requirements": "",
+    "benefits": ""
+  }
+]
