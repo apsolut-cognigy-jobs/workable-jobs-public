@@ -131,6 +131,18 @@
     "requirements": "<p><strong>About you</strong></p><ul><ul> <li>5+ years of enterprise SaaS sales experience, with a successful track record selling to Fortune 500 companies</li> <li>3+ years of CCaaS, CAI, or AI/Automation sales experience</li> <li>Technical sales experience in CCaaS, CAI, AI/Automation is a plus</li> <li>Experience working in or selling through a partner/channel model; you're comfortable influencing without direct control</li> <li>Proven ability to close $1M+ in annual quota with individual deal sizes in the 6- and 7-figure range</li> <li>Exceptional at managing complex, multi-threaded sales cycles with VP and C-level stakeholders</li> <li>A self-starter who can independently drive deals forward while embracing a team-oriented sales motion</li> <li>Strong business acumen and a consultative mindset; you bring insight and structure to every customer conversation</li> <li>Comfortable working in a fast-paced, high-growth environment</li> </ul></ul><p></p>"
   },
   {
+    "id": "49ba49",
+    "title": "Sales Engineer - US",
+    "department": "Sales Engineering (Presales)",
+    "locations": [
+      "Dallas, Texas, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/A4D51C408E",
+    "positionType": "Full-time",
+    "workplaceType": "remote",
+    "requirements": "<p><strong>About you</strong></p><p>Are you a tech-savvy professional with a knack for delivering captivating demos? Do you thrive in the world of enterprise software, especially in contact center or automation technologies? If so, we have an exciting opportunity for you!</p><p>Key Requirements:</p><ul> <li> <strong>Consulting &amp; Sales Engineering Expertise:</strong> Leverage your experience in roles like consultant, sales engineer, or presales to provide insightful and engaging demonstrations.</li> <li> <strong>Enterprise Software Proficiency:</strong> Bring your background in the enterprise software space, particularly with contact center or automation technologies, to the table.</li> <li> <strong>Programming Skills:</strong> Utilize your JavaScript programming/scripting experience, essential for presales and enablement services. Knowledge of Java, Python, or similar languages is a plus.</li> <li> <strong>Low Code &amp; Conversational AI Experience: </strong>Experience presenting conversational AI and generative AI technologies.</li> <li> <strong>Contact Center Knowledge: </strong>Understanding contact center technology (SIP and typical contact center components such as SBCs, ACD, ASR, TTS, etc.). Experience with conversation design, IVR design or chatbot design.</li> <li> <strong>Presentation Prowess:</strong> Be a confident and engaging presenter, capable of captivating your audience.</li> <li> <strong>Creative &amp; Design Skills:</strong> Experience with video editing, Photoshop, or similar tools is a valuable asset.</li> <li> <strong>Tech Enthusiast: </strong>Demonstrate confidence in speaking about and dealing with technology, with an ability to quickly learn new technologies.</li> <li> <strong>Technical Expertise:</strong> Have a deep understanding of Cognigy, conversational AI technologies, NLU/NLP, and related software technologies, including UI/UX.</li> <li> <strong>Sales Acumen:</strong> Effectively communicate complex technology in an easy-to-understand manner, build rapport with customers, and showcase Cognigy’s capabilities and value proposition.</li> <li> <strong>Communication &amp; Collaboration:</strong> Exhibit excellent communication skills, tailored to your audience, and the ability to collaborate effectively with cross-functional teams</li> <li><strong>Applicants must be authorized to work in the United States without the need for employer sponsorship now or in the future. We are unable to offer visa sponsorship for this position.</strong></li> </ul><p></p><p>If you’re ready to take on a role that combines technical knowledge with sales finesse, we’d love to hear from you!</p><p></p>"
+  },
+  {
     "id": "49c2dd",
     "title": "Software Engineer (DevEx)",
     "department": "Engineering",
@@ -153,6 +165,18 @@
     "positionType": "Not specified",
     "workplaceType": "remote",
     "requirements": "<h3>About you</h3><ul> <li> Hands-on experience running production <strong>ML or LLM workloads in Kubernetes</strong> </li> <li> Familiarity with distributed ML frameworks such as <strong>KubeRay, Ray Serve, or similar</strong> </li> <li> Deep understanding of <strong>Kubernetes internals</strong>, especially GPU scheduling, autoscaling, and multi-tenant environments </li> <li> Proficiency with <strong>CI/CD systems for ML models</strong>, and versioned deployment strategies </li> <li> Strong experience with <strong>cloud platforms</strong> (AWS, GCP, or Azure), <strong>networking</strong>, and <strong>security</strong> best practices </li> <li> Skilled in <strong>monitoring and observability</strong> for ML workloads (e.g., Prometheus, Grafana) </li> <li> Passion for <strong>automation</strong>, <strong>performance tuning</strong>, and <strong>cost optimization</strong> for LLM workloads </li> <li> Clear communicator and proactive team player who thrives in fast-paced, cross-functional environments </li> <li> MLOps or DevOps certifications (nice to have)</li> </ul>"
+  },
+  {
+    "id": "4a032d",
+    "title": "Conversation Designer - US",
+    "department": "Professional Services",
+    "locations": [
+      "Plano, Texas, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/BCFC45964C",
+    "positionType": "Full-time",
+    "workplaceType": "hybrid",
+    "requirements": "<p><strong>About You:</strong></p><ul> <li>3+ years of experience as a conversation designer, UX designer, or similar role </li> <li>Strong command of English (spoken and written) </li> <li>Proven experience creating user-centric conversational experiences across modalities </li> <li>Familiarity with conversational design tools (ideally Cognigy.AI) and &nbsp;experience utilizing Generative AI in conversation design</li> <li>You have a proven track-record of building great user experiences on different modalities</li> <li>You are enthusiastic about technology and familiar with current trends and hands-on experience enterprise software. (You don’t need to be programmer, but you should not be scared when you see code.)</li> <li>Comfortable working with APIs, data analysis, and understanding technical documentation </li> <li>A generalist mindset with adaptability and a passion for innovation </li> <li>Strong communication, collaboration, and problem-solving skills </li> <li>Customer-focused, solution-oriented, and skilled in navigating interpersonal dynamics</li> <li><strong>Applicants must be authorized to work in the United States without the need for employer sponsorship now or in the future. We are unable to offer visa sponsorship for this position.</strong></li> </ul>"
   },
   {
     "id": "4abfee",
