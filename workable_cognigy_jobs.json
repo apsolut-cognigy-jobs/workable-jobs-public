@@ -162,18 +162,6 @@
     "requirements": "<h3>About you</h3><ul> <li> 5+ years of experience in backend software engineering, preferably in a platform or DevOps role </li> <li> Deep experience with <strong>Kubernetes</strong>, <strong>Helm</strong>, <strong>Terraform</strong>, and modern infrastructure-as-code practices </li> <li> Proficiency in <strong>backend development</strong> using <strong>TypeScript/Node.js</strong>, Python, or Golang </li> <li> Strong <strong>Linux terminal skills</strong> and experience with <strong>container debugging</strong> </li> <li> Familiarity with <strong>CI/CD systems</strong> (e.g., GitHub Actions, Jenkins) and pipeline optimization techniques </li> <li> Experience with security and compliance tooling like <strong>Snyk</strong>, <strong>Vanta</strong>, or equivalent </li> <li> Hands-on knowledge of cloud platforms (Azure, AWS preferred) </li> <li> Proven ability to collaborate, mentor, and lead process improvements across engineering teams </li> <li> Observability expertise (Grafana, Sentry, Kibana) and a systems-thinking mindset </li> <li> Comfortable making architectural decisions and owning secure, reliable developer infrastructure</li> </ul><ul><li> <strong>Incident Response &amp; Decision Making</strong> – You stay calm under pressure, make decisions with urgency when necessary, and are comfortable being on call for emergencies when needed.</li></ul>"
   },
   {
-    "id": "49c347",
-    "title": "MLOps Engineer",
-    "department": "Engineering",
-    "locations": [
-      "Düsseldorf, North Rhine-Westphalia, Germany"
-    ],
-    "shortlink": "https://apply.workable.com/j/1F4C0C60B7",
-    "positionType": "Not specified",
-    "workplaceType": "remote",
-    "requirements": "<h3>About you</h3><ul> <li> Hands-on experience running production <strong>ML or LLM workloads in Kubernetes</strong> </li> <li> Familiarity with distributed ML frameworks such as <strong>KubeRay, Ray Serve, or similar</strong> </li> <li> Deep understanding of <strong>Kubernetes internals</strong>, especially GPU scheduling, autoscaling, and multi-tenant environments </li> <li> Proficiency with <strong>CI/CD systems for ML models</strong>, and versioned deployment strategies </li> <li> Strong experience with <strong>cloud platforms</strong> (AWS, GCP, or Azure), <strong>networking</strong>, and <strong>security</strong> best practices </li> <li> Skilled in <strong>monitoring and observability</strong> for ML workloads (e.g., Prometheus, Grafana) </li> <li> Passion for <strong>automation</strong>, <strong>performance tuning</strong>, and <strong>cost optimization</strong> for LLM workloads </li> <li> Clear communicator and proactive team player who thrives in fast-paced, cross-functional environments </li> <li> MLOps or DevOps certifications (nice to have)</li> </ul>"
-  },
-  {
     "id": "4a032d",
     "title": "Conversation Designer - US",
     "department": "Professional Services",
