@@ -139,6 +139,18 @@
     "requirements": "<p><strong>About you</strong></p><ul><ul> <li>5+ years of enterprise SaaS sales experience, with a successful track record selling to Fortune 500 companies</li> <li>3+ years of CCaaS, CAI, or AI/Automation sales experience</li> <li>Technical sales experience in CCaaS, CAI, AI/Automation is a plus</li> <li>Experience working in or selling through a partner/channel model; you're comfortable influencing without direct control</li> <li>Proven ability to close $1M+ in annual quota with individual deal sizes in the 6- and 7-figure range</li> <li>Exceptional at managing complex, multi-threaded sales cycles with VP and C-level stakeholders</li> <li>A self-starter who can independently drive deals forward while embracing a team-oriented sales motion</li> <li>Strong business acumen and a consultative mindset; you bring insight and structure to every customer conversation</li> <li>Comfortable working in a fast-paced, high-growth environment</li> </ul></ul><p></p>"
   },
   {
+    "id": "48cb04",
+    "title": "Senior Account Executive - UKI",
+    "department": "Direct Sales",
+    "locations": [
+      "London, England, United Kingdom"
+    ],
+    "shortlink": "https://apply.workable.com/j/E789338E86",
+    "positionType": "Full-time",
+    "workplaceType": "remote",
+    "requirements": "<p><strong>About you</strong></p><ul> <li>You are an experienced <strong>Enterprise Sales Executive</strong> with a proven track record of success in selling <strong>SaaS </strong>within the wider <strong>Contact Center or Conversational AI environment</strong> </li> <li>You have a <strong>hunter mentality</strong> and are passionate about winning and being part of an exciting company in a hyper-growth phase</li> <li>You are confident navigating sales cycles with all management levels (particularly SVP/C-Level)</li> <li>Organization and prioritizing are at the heart of everything you do and you are disciplined and function well in a remote environment</li> <li>What is a salesperson without professional communication skills, and a customer-centric, personable demeanour?!</li> <li>You can balance driving a sales cycle independently while leveraging internal resources</li> <li>You are comfortable leveraging a partner channel to support the sales process</li> </ul>"
+  },
+  {
     "id": "495277",
     "title": "Client Services Project Manager - US",
     "department": "Professional Services",
@@ -226,5 +238,29 @@
     "positionType": "Full-time",
     "workplaceType": "remote",
     "requirements": "<p><strong>About you</strong></p><ul> <li> <strong>Kubernetes &amp; Containerization Expertise</strong> – You have several years of experience running containers in production, including building Kubernetes clusters from the ground up. You’re also experienced with managed Kubernetes services like AWS EKS, Azure AKS, or Google GKE.</li> <li> <strong>Infrastructure Auto-Scaling</strong> – You know how to leverage tools like the Horizontal Pod Autoscaler and Cluster Autoscaler to ensure seamless scaling and performance.</li> <li> <strong>Cloud Proficiency – </strong>You have hands-on experience with major cloud platforms like AWS, Microsoft Azure or GCP.</li> <li> <strong>Strong Networking &amp; Security Knowledge</strong> – You understand concepts like VPCs, subnets, internet gateways, and web security best practices.</li> <li> <strong>Passion for Automation</strong> – You have multiple years of experience with CI/CD systems (e.g., Jenkins, GitLab) and believe in automating whenever possible.</li> <li> <strong>Infrastructure as Code Enthusiast</strong> – You’re proficient with tools like Terraform, Helm, and Flux for managing infrastructure and deployments.</li> <li> <strong>Programming Skills</strong> – You have expertise in one or more programming languages such as Golang, Python, Ruby, JavaScript, Java, or Perl.</li> <li> <strong>Hands-on with Key Technologies</strong> – You’re familiar with Docker, Kubernetes, Message brokers, NoSQL and SQL databases and other core technologies.</li> <li> <strong>Monitoring &amp; Observability</strong> – You have experience with monitoring tools like Prometheus, Grafana, and the ELK Stack, ensuring system reliability and performance.</li> <li> <strong>Proactive &amp; Solution-Oriented Mindset</strong> – You anticipate scaling needs, take full ownership of challenges, and apply a systematic approach to problem-solving.</li> <li> <strong>Incident Response &amp; Decision Making</strong> – You stay calm under pressure, make decisions with urgency when necessary, and are comfortable being on call for emergencies.</li> <li> <strong>Team-Oriented &amp; Globally Minded</strong> – You’re eager to collaborate in an international, dynamic, and highly motivated team, contributing to the growth of Cognigy.AI.   </li> </ul>"
+  },
+  {
+    "id": "4e3b59",
+    "title": "Business Analyst (Professional Services)",
+    "department": null,
+    "locations": [
+      "Dallas, Texas, United States"
+    ],
+    "shortlink": "https://apply.workable.com/j/289ED48E9B",
+    "positionType": "Not specified",
+    "workplaceType": "on_site",
+    "requirements": "<p><strong>About you</strong></p><ul> <li>3+ years of experience as a Business Analyst, preferably in a Professional Services or IT environment.</li> <li>Strong understanding of software development processes and methodologies.</li> <li>Experience in requirements gathering, documentation, and process analysis.</li> <li>Excellent analytical skills and attention to detail, with the ability to translate complex concepts into actionable steps.</li> <li>Proficient in using business analysis tools and techniques, such as flowcharts, use cases, and user stories.</li> <li>Strong interpersonal and communication skills, with the ability to engage with stakeholders at all levels.</li> <li>Adaptability and eagerness to learn new technologies and methodologies.</li> <li>Fluency in English; additional languages are a plus.</li> </ul>"
+  },
+  {
+    "id": "4fc69e",
+    "title": "Business Analyst (Professional Services)",
+    "department": "Customer Management",
+    "locations": [
+      "Düsseldorf, North Rhine-Westphalia, Germany"
+    ],
+    "shortlink": "https://apply.workable.com/j/A67DBF1512",
+    "positionType": "Not specified",
+    "workplaceType": "remote",
+    "requirements": "<p><strong>About you</strong><br>You’re an analytical and detail-oriented professional with a strong understanding of Professional Services delivery in the AI, automation, or contact center space. You’re passionate about bridging technical, business, and customer success perspectives to ensure seamless execution of complex enterprise projects.</p><p></p><p>Key Requirements:</p><ul><li> <strong>Experience:</strong> 4–8 years in AI technology, Professional Services, or consulting - ideally within Conversational AI or Contact Center industries. </li><li> <strong>Project Management / Analyst Expertise:</strong> Proven track record in managing and delivering enterprise projects, from scoping through implementation. </li><li> <strong>Technical Understanding:</strong> Familiarity with Professional Services delivery roles (PM, SA, CD) and chatbot architecture, including APIs and integrations. </li><li> <strong>Analytical Skills:</strong> Strong ability to manage multiple SOWs and quotes simultaneously with exceptional attention to detail. </li><li> <strong>Communication:</strong> Excellent interpersonal and stakeholder management skills across technical and non-technical teams. </li><li> <strong>Tools:</strong> Proficiency in tools like Jira, Confluence, and SharePoint. </li><li> <strong>Languages:</strong> Fluent in <strong>English</strong> (German a plus).</li></ul>"
   }
 ]
